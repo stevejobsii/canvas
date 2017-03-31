@@ -11,12 +11,7 @@
     ],
     "require": {
         "laravel/framework": "5.3.*",
-        "cnvs/easel": { "version": "dev-master", "repositories": [
-   {
-     "type": "git",
-     "url": "git://github.com/stevejobsii/easel.git"
-   }
-] },
+        "cnvs/easel": "dev-master",
         "cnvs/paper-dark": "*",
         "doctrine/dbal": "2.5.*"
     },
