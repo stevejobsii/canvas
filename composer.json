@@ -11,7 +11,7 @@
     ],
     "require": {
         "laravel/framework": "5.3.*",
-        "stevejobsii/easel": "*",
+        "cnvs/easel": "*",
         "cnvs/paper-dark": "*",
         "doctrine/dbal": "2.5.*"
     },
