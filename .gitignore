@@ -18,7 +18,6 @@ phpunit.xml
 *.map
 
 config/blog.php
-composer.lock
 yarn.lock
 
 npm-debug.log
