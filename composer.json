@@ -11,9 +11,15 @@
     ],
     "require": {
         "laravel/framework": "5.3.*",
+        "cnvs/easel": "dev-master",
         "cnvs/paper-dark": "*",
         "doctrine/dbal": "2.5.*"
     },
+    "repositories": [
+    {
+     "type": "git",
+     "url": "git://github.com/stevejobsii/easel.git"
+    }], 
     "require-dev": {
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
@@ -55,15 +61,4 @@
     },
     "minimum-stability": "beta",
     "prefer-stable": true
-},
-{
-    "require": {
-        "cnvs/easel": "dev-master",
-    },
-    "repositories": [
-   {
-     "type": "git",
-     "url": "git://github.com/stevejobsii/easel.git"
-   }
-]
 }
