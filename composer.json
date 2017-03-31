@@ -19,6 +19,11 @@
     "type": "vcs",
     "url": "git://github.com/stevejobsii/easel"
     }],
+    "config": {
+    "github-oauth": {
+      "github.com": "9e0eb25275d6e878f6c7ab8f6845a7abb2190717"
+      }
+    },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
