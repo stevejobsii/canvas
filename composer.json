@@ -15,6 +15,10 @@
         "cnvs/paper-dark": "*",
         "doctrine/dbal": "2.5.*"
     },
+    "repositories": [{
+    "type": "vcs",
+    "url": "https://github.com/stevejobsii/easel"
+    }],
     "require-dev": {
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
